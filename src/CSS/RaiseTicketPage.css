@@ -1,0 +1,16 @@
+.raise-ticket-page {
+    max-width: 600px;
+    margin: 2rem auto;
+    padding: 2rem;
+    background: white;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+  }
+  
+  .raise-ticket-page input,
+  .raise-ticket-page textarea,
+  .raise-ticket-page select,
+  .raise-ticket-page button {
+    width: 100%;
+    padding: 0.5rem;
+    margin-top: 0.5rem;
+  }
